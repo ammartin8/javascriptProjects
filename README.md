@@ -3,10 +3,6 @@
 >This is a challenge where I create mini javascript projects on daily/consistent basis. The goal is create a new project using only JavaScript daily.
 ___
 
-## Created By: Amah Martin
+>Want to join me on the challenge? Visit the [#JavaScript30Challenge](https://www.javascript30.com) webpage created by Wes Bos.
 
->[View Portfolio](https://ammartin8.github.io)
-
-## Requirements
-
->None
+## Created By: [Amah Martin](https://ammartin8.github.io)
